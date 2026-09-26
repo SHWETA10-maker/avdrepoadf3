@@ -1,0 +1,15 @@
+{
+	"name": "gitadffc",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93f48cf2-8149-4a71-804c-0115db4c5958",
+		"tenantId": "2b82aa8e-9c89-4cbf-99a4-7280e6b87e83"
+	}
+}
